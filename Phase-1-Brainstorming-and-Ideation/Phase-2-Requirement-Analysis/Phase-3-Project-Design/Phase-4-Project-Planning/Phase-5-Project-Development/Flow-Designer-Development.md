@@ -84,3 +84,19 @@ assigned to the Hardware assignment group.
 
 Screenshots of the ServiceNow configuration and Flow execution
 will be added to this phase as project evidence.
+
+---
+
+## 📸 Project Execution Evidence
+
+### 1. Active Flow Designer Configuration
+![Flow Designer](../01-flow-designer-active.png)
+
+### 2. Catalog Item Process Engine Setup
+![Maintain Items](../02-maintain-items-flow-link.png)
+
+### 3. Service Catalog Request Submitted
+![Order Placed](../03-service-catalog-order-placed.png)
+
+### 4. RITM & Auto-Generated SCTASK
+![Task Created](../04-ritm-and-sctask-created.png)
